@@ -12,10 +12,6 @@ pnpm-debug.log*
 logs/
 *.log
 
-# excel files (auth data)
-*.xlsx
-*.xls
-
 # OS and editor files
 .vscode/
 .idea/
